@@ -55,10 +55,10 @@ Right now MobilityGuard is expanding nationally and internationally with interes
 - **Java** System Developers, preferably fullstack
 
 ## What internship periods?
-We have two interns starting November 11th, 2024 and they will finish their internship in May, 2025. During this period we can't take any more interns. But later in 2025 we are open for new interns again.
+May 2025 and forward.
 
 ## What will our interns do?
-Both OneGate and WizePass use Java as their backend. OneGate, being over 20 years old, is as you might expect a so-called "monolith"-application using Java 11 LTS. WizePass uses the Quarkus framwork, maven and modern microservices architecture with Java 17 LTS.
+Both OneGate and WizePass use Java as their backend. OneGate, being over 20 years old, is as you might expect a so-called "monolith"-application using Java 11 LTS. WizePass uses the Quarkus framwork, maven and modern microservices architecture with Java 21 LTS.
 
 **Interns** will mainly work on **WizePass** but we are also looking at projects modernizing **OneGate**. 
 
