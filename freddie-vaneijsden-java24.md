@@ -11,7 +11,7 @@ Efter att ha utforskat både musikbranschen och sjukvården (som legitimerad log
     <img src="images/pngegg.png" alt="Elgitarr" width="90" />
   </div>
 
-När det kommer till de mer tekniska sidor gillar jag att botanisera i digitala inspelningsmiljöer och att starta utvecklingsprojekt i syfte att testa olika idéer och lära mig nya tekniker. Jag trivs i miljöer där man arbetar tillsammans för att skapa och förbättra programvaror. Att se något växa fram i samarbete med andra ger mig både energi och ny kunskap, vilket jag värderar högt på arbetsplatsen.
+När det kommer till mer tekniska sidor gillar jag att botanisera i digitala inspelningsmiljöer och att starta utvecklingsprojekt i syfte att testa olika idéer och lära mig nya tekniker. Jag trivs i miljöer där man arbetar tillsammans för att skapa och förbättra programvaror. Att se något växa fram i samarbete med andra ger mig både energi och ny kunskap, vilket jag värderar högt på arbetsplatsen.
 
 Kollegor har beskrivit mig som någon som naturligt tar plats och lyfter relevanta frågor som för gruppen framåt, alltid med känsla för dynamik och stämningen i rummet.
 
@@ -23,4 +23,19 @@ Jag ser fram emot att höra från er och möjligheten att ses personligen.
 
 <strong style="color: #dcdcdc;">Vänliga hälsningar</strong>  
 <strong style="color: #dcdcdc;">Freddie</strong>
+
 </div>
+
+### GitHub
+
+Mitt senaste projekt är byggt med Spring Boot och har vuxit fram ur en kombination av spontana idéer och en vilja att omsätta nyförvärvad kunskap i praktiken.
+Användare kan lämna efter sig korta visdomsord och ladda upp bilder som kan inspirera andra. Applikationen är inspirerad av filmen Pay It Forward och det visuella från Pinterest.
+
+**Daily Wisdom** 
+- https://github.com/Freddievaneijsden/DailyWisdom
+
+I min portfolio finns fler projekt som visar min progression sedan starten 2024. Jag har medvetet utmanat mig själv genom att utforska nya tekniker utifrån min nivå, samtidigt som jag också gett plats för mer lekfulla och kreativa idéer. Jag tänker att kombinationen hjälpt mig växa som utvecklare.
+
+**Portfolio**
+- https://github.com/Freddievaneijsden?tab=repositories
+
