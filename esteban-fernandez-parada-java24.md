@@ -1,4 +1,4 @@
-# Hello  Mobility Guard
+# Hello  MobilityGuard
 <span style="color:#2aa198"> "*it's better to ask for forgiveness than permission*"</span>
 
 ## Personal Letter
@@ -18,6 +18,24 @@ My goals in applying for this internship are to:
  * Learn new strategies to avoid contributing to technical debt.
  * Develop new technical skills to further improve both the product and my personal growth as a developer.
  * Build a solid foundation of experience in maintaining and delivering software as a product.
+
+
+### The Candidate LGTM 🤔
+I believe that my goals and MobilityGuard's goals align with each other. My impression of the company during our meeting at the spring job fair, 
+was that you were looking for candidates who are: curious, hands-on and not afraid to explore new avenues. 
+
+Both MobilityGuard and I want to have tangible
+impact on the world, MobilityGuard with their secure login solutions and I with code that is thoughtful, planned and meticulously designed. 
+
+These are values that should be implicit in every software product, but they become a necessity when handling sensitive information.
+
+I cannot promise perfection for every line of code I write, but I can promise you these qualities:
+* I am always willing to learn and practice until I get it right.
+* I am a communicator: "*I believe explicit is better than implicit.*"
+* I am an explorer and I am not afraid to follow the rabbit hole wherever it leads. 
+
+I look forward to hearing from MobilityGuard in the near future and to the possibility of joining your team. 
+
 
 
 
