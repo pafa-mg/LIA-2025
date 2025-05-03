@@ -1,4 +1,17 @@
 # Hello  MobilityGuard
+
+
+
+[  Click here for all repositories GitHub](https://github.com/efpcode)
+
+[ Click here for LinkedIn](www.linkedin.com/in/esteban-fernandez-parada-337b5140)
+
+[󰈙 CV](https://drive.google.com/file/d/1aCmLt1XXroFe_n9nTM_YQc1Njryx3-Q-/view?usp=sharing)
+
+Email: esteban.py.dev[at].gmail.com
+
+--------------------------------------------------------
+
 <span style="color:#2aa198"> "*it's better to ask for forgiveness than permission*"</span>
 
 ## Personal Letter
@@ -38,6 +51,16 @@ I look forward to hearing from MobilityGuard in the near future and to the possi
 
 
 
+
+-----------------------------------------------
+
+## Github Repository 
+
+I picked the this repository, a school project that showcases the Java SPI (Service Provider Interface) model see link below:
+[SPI Demo Repo](https://github.com/efpcode/spi-project)
+
+This is my latest project and I like it is because it combines different skills: shell scripting, Java and Docker.
+Also, this is an active repository and changes might be pushed as I continue to improve it. 
 
 
 
