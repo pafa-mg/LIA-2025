@@ -50,17 +50,19 @@ I cannot promise perfection for every line of code I write, but I can promise yo
 I look forward to hearing from MobilityGuard in the near future and to the possibility of joining your team. 
 
 
+---------------------------------------------
+<div style="page-break-after: always;">
 
+# Github Repository 
 
------------------------------------------------
-
-## Github Repository 
-
-I picked the this repository, a school project that showcases the Java SPI (Service Provider Interface) model see link below:
+I picked the this repository,which is a school project that showcases the Java SPI (Service Provider Interface) model see link below:
 [SPI Demo Repo](https://github.com/efpcode/spi-project)
 
-This is my latest project and I like it is because it combines different skills: shell scripting, Java and Docker.
-Also, this is an active repository and changes might be pushed as I continue to improve it. 
+This is my latest project and I like it is because it combines different set of skills: shell scripting, Java and Docker.
+Lastly this is an active repository and changes might be pushed as I continue to improve the project. 
+
+</div>
+
 
 
 
